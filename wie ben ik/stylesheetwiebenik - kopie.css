@@ -1,5 +1,9 @@
 body {background-color: #BDDEDE;}
 
-p.1 {font-size: 14px;}
+img.vloot1 {border: 2px solid black; float: left; margin: 20px;}
 
-p.2 {font-size: 14px;}
+img.vloot2 {border: 2px solid black; float: right; margin: 20px;}
+
+img.vloot3 {border: 2px solid black; float: left; margin: 20px;}
+
+p {font-family: verdana; font-size: 16px;}
